@@ -1,0 +1,12 @@
+ErrorDocument 400 /errores/error400.php
+ErrorDocument 401 /errores/error401.php
+ErrorDocument 403 /errores/error403.php
+ErrorDocument 404 /errores/error404.php
+ErrorDocument 500 /errores/error500.php
+ErrorDocument 503 /errores/error503.php
+
+RewriteCond %{QUERY_STRING} (;|<|>|’|”|\)|%0A|%0D|%22|%27|%3C|%3E|%00).*(/\*|union|select|insert|cast|set|declare|drop|update|md5|benchmark) [NC,OR]
+RewriteCond %{QUERY_STRING} \.\./\.\. [OR]
+RewriteCond %{QUERY_STRING} (localhost|loopback|127\.0\.0\.1) [NC,OR]
+RewriteCond %{QUERY_STRING} \.[a-z0-9] [NC,OR]
+RewriteCond %{QUERY_STRING} (<|>|’|%0A|%0D|%27|%3C|%3E|%00) [NC]

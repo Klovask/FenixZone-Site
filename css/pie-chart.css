@@ -1,0 +1,36 @@
+#logrosta h6{font-size:18px;font-weight:500;line-height:1.1;margin-bottom:9px;margin-left:9px;margin-top:6px;}
+
+textarea{-moz-border-bottom-colors:none;-moz-border-left-colors:none;-moz-border-right-colors:none;-moz-border-top-colors:none;-moz-outline-radius:3px;background:none repeat scroll 0 0 white;border-color:#c4c4c4 #d1d1d1 #d4d4d4;border-image:none;border-radius:2px;border-style:solid;border-width:1px;box-shadow:0 1px 3px rgba(0,0,0,0.12) inset;color:#404040;height:34px;margin:5px;outline:5px solid #eff4f7;padding:0 10px;width:200px;}
+textarea:focus{border-color:#7dc9e2;outline-color:#dceefc;outline-offset:0;}
+
+.easyPieChart{position:relative;text-align:center;background-position:1px center;float:left;width:84px;height:84px;line-height:84px;}
+.easyPieChart span{color:#FFFFFF;text-shadow:0 1px 0 #000;font-size:19px;font-family:'Bangers',cursive,sans-serif;border-radius:10px;}
+.easyPieChart canvas{position:absolute;top:0;left:0;border-right:1px solid #d6d6d6;padding-right:10px;}
+.logrotd{padding:10px;float:left;background-color:#F0F0F0;}
+.logrotd2{padding:10px;float:left;background-color:#f4f4f4;}
+.logrotit{margin-top:2px;font-size:14px;border-radius:0.25em;color:#FFFFFF;font-weight:700;padding:3px 6px;margin-left:22px;}
+.logrodesc{margin-left:24px;margin-top:25px;min-height:35px;width:550px;}
+.logrofecha{width:290px;margin-top:2px;margin-left:10px;color:#2d2d2d;}
+.logroiz{float:left;}
+.logroni{width:84px;height:84px;background-image:url(../imagenes/logros/b.png);position:absolute;z-index:2}
+.logrotd:hover{background-color:#FFF;}
+.logrotd2:hover{background-color:#FFF;}
+.hrl{background-image:url("../imagenes/hr.gif");background-repeat:repeat-x;border:medium none;clear:both;height:2px;margin-top:7px;}
+.completado{width:190px;height:55px;line-height:84px;text-align:center;font-size:14px;font-weight:bold;text-shadow:0 1px 0 #466e00;color:#FFFFFF;margin-left:50px;}
+.completado1{background-image:url(../imagenes/logros/completado1.png);}
+.completado2{background-image:url(../imagenes/logros/completado2.png);}
+.completado3{background-image:url(../imagenes/logros/completado3.png);}
+.completado4{background-image:url(../imagenes/logros/completado4.png);}
+.completado5{background-image:url(../imagenes/logros/completado5.png);}
+.completado6{background-image:url(../imagenes/logros/completado6.png);}
+.completado7{background-image:url(../imagenes/logros/completado7.png);}
+.completado8{background-image:url(../imagenes/logros/completado8.png);}
+.completado9{background-image:url(../imagenes/logros/completado9.png);}
+.completado10{background-image:url(../imagenes/logros/completado10.png);}
+.completado11{background-image:url(../imagenes/logros/completado11.png);}
+.completado12{background-image:url(../imagenes/logros/completado12.png);}
+.completado13{background-image:url(../imagenes/logros/completado13.png);}
+.completado14{background-image:url(../imagenes/logros/completado14.png);}
+.completado15{background-image:url(../imagenes/logros/completado15.png);}
+.completado16{background-image:url(../imagenes/logros/completado16.png);}
+.completado17{background-image:url(../imagenes/logros/completado17.png);}

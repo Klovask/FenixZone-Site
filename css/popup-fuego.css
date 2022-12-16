@@ -1,0 +1,24 @@
+.overlay *,*:after,*:before{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;}
+.button{font-size:1em;padding:10px;color:#fff;border:2px solid #06D85F;border-radius:20px/50px;text-decoration:none;cursor:pointer;transition:all 0.3s ease-out;}
+.button:hover{background:#06D85F;}
+.popup h2{margin-top:0;color:#333;font-family:Tahoma,Arial,sans-serif;}
+
+.popup .close{position:absolute;top:26px;right:34px;transition:all 0.2s;font-size:26px;font-weight:bold;text-decoration:none;color:#FFFFFF;z-index:200;text-shadow:0 1px 0 #000;cursor:pointer;}
+.popup .close:hover{color:#FF0000;}
+
+.popup .content{overflow:auto;position:absolute;top:30px;left:30px;background-image:url(../imagenes/prendasimg.jpg);width:590px;height:300px;z-index:100;border-radius:4px;background-position:-45px;}
+.overlay:target:before{display:none;}
+.overlay:before{content:"";top:0;left:0;right:0;bottom:0;display:block;background:rgba(0,0,0,0.9);position:fixed;z-index:9;}
+.overlay .popup{background-image:url("../imagenes/fondo-prendas.png");height:360px;margin-left:-50%;margin-top:-30%;padding:25px;position:relative;top:0;width:650px;z-index:10;-webkit-transition:all 0.6s ease-in-out;-moz-transition:all 0.6s ease-in-out;transition:all 0.6s ease-in-out;}
+.overlay:target .popup{top:-100%;left:-100%;}
+.popup-caption{background-image:url("../imagenes/bg_trans.png");color:#fff;display:none;overflow:hidden;padding:10px;position:absolute;text-shadow:0 1px 0 #000;width:590px;z-index:8;text-align:center;}
+.botoncomprar a{color:#fff000;}
+.botoncomprar a:hover{color:#FFF;font-size:20px;}
+
+@media screen and (max-width: 768px){.box{width:70%;}.overlay .popup{width:70%;left:15%;}}
+
+@keyframes animatedBackground{from{background-position:0 0;}to{background-position:0 100%;}}
+@keyframes animatedBackground2{from{background-position:0 0;}to{background-position:0 100%;}}
+#efecto-fuego{position:absolute;width:590px;height:300px;background-image:url(../imagenes/efecto-fuego.png);background-position:0px 0px;background-repeat:repeat-y;animation:animatedBackground 17s linear infinite;}
+#efecto-fuego2{position:absolute;width:590px;height:300px;background-image:url(../imagenes/efecto-fuego2.png);background-position:100px 100px;background-repeat:repeat-y;animation:animatedBackground 7s linear infinite;}
+#logo-minX{position:absolute;bottom:0;background-image:url(../imagenes/vz-logo-min.png);background-size:45px;width:45px;height:45px;right:0;z-index:300;}

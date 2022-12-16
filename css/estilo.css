@@ -1,0 +1,165 @@
+.header{background-image:url(../imagenes/header2015-2.jpg);width:997px;height:198px;float:left}
+.headerhahn{background-image:url(../imagenes/header2015-2.jpg);width:997px;height:190.4px;float:left}
+.header2{background-image:url(../imagenes/header2015-2.jpg);width:997px;height:198px;float:left}
+
+.header-s3-2{background-image:url(../imagenes/header2015-2.jpg);width:997px;height:199px;float:left}
+
+.header-s3-5{background-image:url(../imagenes/header2015.jpg);width:997px;height:190.4px;float:left}
+.header-s3-{background-image:url(../imagenes/header2015.jpg);width:997px;height:190.4px;float:left}
+
+
+body22{background-image:url(../imagenes/bg-navidad.jpg);background-position:center top;background-repeat:no-repeat;margin:0;padding:0;background-color:#1D272D;font-family:sans-serif;font-size:13px;background-attachment:fixed}
+body{background-image:url(../imagenes/fondo15.gif);background-position:center top;background-repeat:no-repeat;margin:0;padding:0;background-color:#1D272D;font-family:sans-serif;font-size:13px;background-attachment:fixed}
+
+.botones-login{float:left;height:24px;overflow:hidden;width:130px;text-align:center;}
+.botones-login a{color:#305B79;padding-top:6px;float:left}
+.botones-login a:hover{color:#FF3}
+.botones-login img{padding-top:6px;float:left;margin-left:10px;margin-right:6px}
+.botones-superiores{float:right;padding-right:4px;padding-top:3px;height:24px;overflow:hidden}
+.facebook-boton{background-image:url(../imagenes/facebook25-50.png);height:25px;width:25px;float:left;margin-left:3px}
+.facebook-boton:hover{background-position:bottom;height:25px;width:25px}
+.youtube-boton{background-image:url(../imagenes/youtube25-50.png);height:25px;width:25px;float:left;margin-left:3px}
+.youtube-boton:hover{background-position:bottom;height:25px;width:25px}
+.ip{width:760px;padding-top:6px;padding-left:30px;text-shadow:0 1px 0 #000000;color:#FFFFFF;float:left}
+.ip2{width:200px;padding-top:6px;padding-left:25px;text-shadow:0 1px 0 #000000;color:#FFFFFF;float:left;height:187px}
+.nologeado{float:left;color:#000000;padding-left:5px;padding-top:4px;text-shadow:0 1px 0 #FFFFFF;}
+.nologeado a{text-decoration:none;color:#000000;}
+.nologeado a:hover{color:#0F9DC1}
+.casa{float:left;width:16px;padding-left:104px;padding-top:3px}
+.casa a{text-decoration:none}
+.segundoytercero{font-size:12px;}
+.ingr{background-image:url(../imagenes/ingr.png);width:638px;height:70px;margin-left:20px;margin-top:40px}
+.entrar{background-image:url(../imagenes/entrar.png);width:578px;height:206px;margin-left:45px;}
+.entrar-usuario{float:left;padding-left:272px;padding-top:60px;}
+.entrar-pass{float:left;padding-left:272px;padding-top:16px;}
+.entrar-btn{float:left;padding-left:315px;padding-top:6px;}
+.entrar-text{height:25px;width:235px;background-color:#F7F7F7;border:none;color:#305B79;font-size:16px;font-family:Verdana;font-weight:bold}
+.ingresar-btn{background-image:url(../imagenes/boton-ingresar.png);height:35px;overflow:hidden;border:none;padding-top:35px;width:154px;cursor:pointer;}
+.ingresar-btn:hover{background-position:0 -35px;height:35px;overflow:hidden;border:none;padding-top:35px;width:154px;cursor:pointer;}
+.recuperar a{color:#000000;text-shadow:0 1px 0 #FFFFFF;float:left;margin-left:230px;margin-top:20px;}
+.recuperar a:hover{color:#0F9DC1}
+.logged-usuario{float:left;color:#FFFFFF;margin-left:730px;margin-top:60px;text-shadow:0 1px 0 #000;text-align:center;width:150px;font-weight:bold;position:absolute;}
+.logged-usuario a{color:#EBEBEB;}
+.logged-usuario a:hover{color:#FF0;}
+.img-usuario{float:left;margin-left:780px;margin-top:6px;height:163px;overflow:hidden;width:216px;}
+.iconos-usuario{float:left;margin-left:864px;margin-top:4px}
+.td{background-image:url(../imagenes/td.png);width:300px;height:40px;float:left;margin-left:1px}
+.td-menu{background-image:url(../imagenes/menu-derecho_01.png);width:300px;height:30px;float:left;margin-left:1px}
+.td-gr{background-image:url(../imagenes/td-gr.png);width:678px;margin-left:3px;margin-top:5px;border-left:solid 1px #DEDEDE;border-right:solid 1px #DEDEDE;border-bottom:solid 1px #DEDEDE;background-color:#F6F6F6;background-repeat:no-repeat;float:left}
+.td-img{background-image:url(../imagenes/municipalidad.jpg);width:678px;margin-left:3px;margin-top:5px;border-left:solid 1px #DEDEDE;border-right:solid 1px #DEDEDE;border-bottom:solid 1px #DEDEDE;background-color:#F6F6F6;background-repeat:no-repeat;float:left;}
+.icono-td{float:left;margin-left:10px;margin-top:8px;}
+.titulo-td{float:left;font-weight:bold;font-size:13px;text-shadow:0 1px 0 #FFFFFF;color:#305B79;margin-top:8px;margin-left:10px;}
+.bloque{width:280px;border:solid 1px #DEDEDE;background-color:#F6F6F6;margin:0;padding:10px;text-shadow:0 1px 0 #FFFFFF;}
+.crear-banda{float:left;background-image:url(../imagenes/bandas/cb1.png);width:683px;height:403px;margin-left:5px}
+.crear-banda a{color:#EBEBEB;text-shadow:0 1px 0 #000;font-family:sans-serif;font-size:0;}
+.crear-banda a:hover{color:#FFFFFF;text-shadow:0 1px 0 #000;font-size:22px;font-weight:bold}
+.crear-banda-bajo{background-image:url(../imagenes/bandas/cb-bajo.png);float:left;height:150px;margin-left:5px;padding-top:50px;padding-left:20px;padding-right:20px;font-size:13px;}
+.datos-banda{float:left;background-image:url(../imagenes/bandas/form-banda.png);width:683px;height:403px;margin-left:5px}
+.tipo-de-banda{float:left;padding-left:360px;padding-top:90px;font-size:22px;font-weight:bold;text-shadow:0 1px 0 #FFFFFF;}
+.nombre-de-banda{float:left;padding-left:360px;padding-top:40px;font-size:22px;font-weight:bold;text-shadow:0 1px 0 #FFFFFF;}
+.nombre-de-banda input{font-size:22px;font-weight:bold;text-shadow:0 1px 0 #FFFFFF;border:none;width:280px}
+.costo-banda{float:left;padding-left:360px;padding-top:43px;font-size:22px;font-weight:bold;text-shadow:0 1px 0 #FFFFFF;color:#66CC00}
+.condiciones-banda{float:left;padding-left:350px;padding-top:45px;font-size:17px;font-weight:bold;text-shadow:0 1px 0 #FFFFFF;}
+.enviar-banda{float:left;padding-left:260px;padding-top:22px;}
+.enviar-banda input{background-image:url(../imagenes/bandas/boton-crear.png);}
+.info-banda{float:left;background-image:url(../imagenes/bandas/datos-del-registro.png);width:683px;height:270px;margin-left:5px}
+.titulo-banda{float:left;margin-top:24px;margin-left:55px;font-weight:bold;text-shadow:0 1px 0 #000000;color:#FFFFFF;font-size:16px;width:620px;}
+.resultado-banda{float:left;font-size:13px;margin-left:35px;margin-top:40px;text-align:center;width:600px;height:115px;}
+.boton-regresar{float:left;margin-left:255px;margin-top:5px;}
+.panel-principal{background-image:url(../imagenes/principal2.png);float:left;font-size:13px;font-weight:bold;height:25px;overflow-x:hidden;overflow-y:hidden;padding-top:10px;padding-left:40px;width:260px;}
+
+.bloque-menu{width:300px;border:solid 1px #DEDEDE;background-color:#F6F6F6;margin:0;text-shadow:0 1px 0 #FFFFFF;margin-bottom:5px;float:left}
+.bloque-menu a{color:#003366}
+.bloque-menu a:hover{background-position:0 -35px;color:#0099FF}
+
+.panel-todo{background-image:url(../imagenes/fondo-boton-menu.png);float:left;font-size:13px;font-weight:bold;height:25px;overflow-x:hidden;overflow-y:hidden;padding-top:10px;padding-left:40px;width:260px;}
+.actual1{background-position:0 -35px;color:#0099FF;background-image:url(../imagenes/principal2.png);float:left;font-size:13px;font-weight:bold;height:25px;overflow-x:hidden;overflow-y:hidden;padding-top:10px;padding-left:40px;width:260px;}
+.actual{background-position:0 -35px;color:#0099FF;background-image:url(../imagenes/fondo-boton-menu.png);float:left;font-size:13px;font-weight:bold;height:25px;overflow-x:hidden;overflow-y:hidden;padding-top:10px;padding-left:40px;width:260px;}
+.hr{background-image:url(../imagenes/hr.gif);background-repeat:repeat-x;border:none;height:2px;clear:both;margin-top:7px;margin-bottom:6px}
+.hr2{background-image:url(../imagenes/hr.gif);background-repeat:repeat-x;border:none;height:2px;clear:both;margin-top:1px;margin-bottom:1px}
+.cadena{background-image:url(../imagenes/cadena.png);background-repeat:no-repeat;padding-left:15px;margin-left:10px;color:#000000}
+.ninguno{color:#000000;padding-left:4px}
+.text{background-image:url(../imagenes/text.png);width:400px;height:35px;float:left;margin:8px 10px 10px 10px;background-repeat:no-repeat}
+.text input{border:none;margin-top:7px;margin-left:110px;font-size:16px;color:#305B79;font-weight:bold}
+.izq-text{margin:18px 10px 10px 10px;float:left;font-size:14px;color:#333333;font-weight:bold}
+.listadointegrantes{font-size:13px;color:#0077A9;}
+.cadena2{background-image:url(../imagenes/cadena.png);background-repeat:no-repeat;padding-left:15px;margin-left:10px;color:#000000}
+.formulario-input{float:left;width:450px;height:40px;background-image:url(../imagenes/campo-texto.png);background-repeat:no-repeat;}
+.formulario-input span{float:left;font-size:14px;font-weight:bold;padding-bottom:11px;padding-left:11px;padding-right:11px;padding-top:11px;width:185px;color:#305B79;text-shadow:0 1px 0 #FFFFFF;}
+.formulario-input input{border:none;float:left;margin-top:11px;width:200px;}
+.mensajemal{float:left;width:615px;background-color:#FFFFFF;border:#EBEBEB solid 1px;margin:5px;padding:10px;text-align:center;font-size:16px;font-weight:bold;color:#CC0000;margin-left:20px;}
+.mensajebien{float:left;width:615px;background-color:#FFFFFF;border:#EBEBEB solid 1px;margin:5px;padding:10px;text-align:center;font-size:16px;font-weight:bold;color:#009900;margin-left:20px;}
+.perdida{background-image:url(../imagenes/perdida.png);width:578px;height:206px;margin-left:45px;float:left}
+.perdida-email{float:left;padding-left:170px;padding-top:88px;}
+.perdr{background-image:url(../imagenes/perdr.png);width:638px;height:70px;margin-left:20px;margin-top:40px}
+.invitaciones-pendientes a{float:right;margin-right:30px;margin-top:8px;color:#FFFFFF;text-shadow:0 1px 0 #000;font-weight:bold}
+.invitaciones-pendientes a:hover{color:#FFFF00;text-shadow:0 1px 0 #000000;}
+.primertd td{background-image:url(../imagenes/td1.png);text-shadow:0 1px 0 #FFFFFF;background-color:#FFFFFF}
+.menu-flotante{background-image:url(../imagenes/menu-flotante.png);float:left;font-size:12px;font-weight:bold;height:20px;overflow-x:hidden;overflow-y:hidden;width:200px;}
+.barra-flotante{float:left;padding-left:660px;}
+.barra-flotante a{width:30px;height:30px;cursor:pointer;display:block}
+.sk1{float:left;width:147px;height:240px;margin-left:32px;margin-top:16px;}
+.sk2{float:left;width:147px;height:240px;margin-left:16px;margin-top:16px;}
+.sk3{float:left;width:147px;height:240px;margin-left:17px;margin-top:16px;}
+.bloque-monedas{width:280px;border:solid 1px #DEDEDE;background-color:#F6F6F6;margin:0;padding:6px 10px 20px 10px;text-shadow:0 1px 0 #FFFFFF;background-image:url(../imagenes/reproh.jpg);background-repeat:no-repeat;height:70px;margin-top:38px}
+.contenido-total{float:left;background-attachment:scroll;background-clip:border-box;background-color:#FFFFFF;background-image:url("../imagenes/contenido-bg.gif");background-origin:padding-box;background-position:0 0;background-repeat:repeat-x;background-size:auto auto;height:590px;padding:0 20px 20px 20px;margin-left:120px}
+.contenido-total2{float:left;background-attachment:scroll;background-clip:border-box;background-color:#FFFFFF;background-image:url("../imagenes/contenido-bg.gif");background-origin:padding-box;background-position:0 0;background-repeat:repeat-x;background-size:auto auto;padding:0 20px 20px 20px;margin-left:10px}
+.actividad{background-color:#FFFFFF;border:dotted 1px #0F010E;padding:10px;margin:20px;text-align:center;float:left;width:620px}
+.bloque a{width:290px;border-bottom:dotted 1px #FFFFFF;margin-top:5px;margin-bottom:5px;font-size:12px;font-weight:bold}
+.cambios-disponibles{float:left;font-size:21px;font-weight:bold;height:60px;margin-left:320px;margin-top:30px;text-shadow:0 1px 0 #FFFFFF;}
+.alerta-roja{background-color:#FFFFCC;color:#000;text-shadow:0 1px 0 #ffffff;}
+.alerta-roja a{font-weight:bold}
+.erroralerta{padding:5px;top:20px;background-color:#F00;color:#FFFFFF;width:560px;text-align:center;}
+
+#menu-superior{width:997px;height:38px;float:left;background-image:url(../imagenes/menu-superior15.png);}
+#menu-superior li a{background-image:url(../imagenes/menu-superior15.png);padding-top:38px;overflow:hidden;text-decoration:none;float:left;background-repeat:no-repeat;height:0;}
+#menu-superior-s2{width:997px;height:38px;float:left;background-image:url(../imagenes/menu-superior15.png);}
+#menu-superior-s2 li a{background-image:url(../imagenes/menu-superior15.png);padding-top:38px;overflow:hidden;text-decoration:none;float:left;background-repeat:no-repeat;height:0;}
+#logeed-usuario-2{background-color: white;}
+#menu-superior ul{margin:0;padding-left:0;float:left;}
+#menu-superior li{display:inline;float:left}
+#menu-superior #principal a{background-position:0 -38px;margin-right:5px;float:left;width:158px;padding-top:38px;}
+#menu-superior #principal a:hover{background-position:0 0;margin-right:5px;}
+#menu-superior #cuenta-creada a{background-position:-682px -38px;width:190px;margin-right:5px;float:left;padding-top:38px;}
+#menu-superior-s2 #crear-cuenta a:hover{background-position:-480px 0;width:190px;margin-right:5px;}
+#menu-superior #crear-cuenta a:hover{background-position:-480px 0;width:190px;margin-right:5px;}
+#menu-superior-s2 #crear-cuenta-ac a{background-position:-490px -76px;width:190px;margin-right:5px;float:left;padding-top:38px;}
+#menu-superior #crear-cuenta-ac a{background-position:-490px -76px;width:190px;margin-right:5px;float:left;padding-top:38px;}
+#menu-superior-s2 #crear-cuenta a{background-position:-480px -38px;margin-right:5px;float:left;width:190px;padding-top:38px;}
+#menu-superior #crear-cuenta a{background-position:-480px -38px;margin-right:5px;float:left;width:190px;padding-top:38px;}
+#menu-superior-s2 #foro a:hover{background-position:-163px 0;width:155px;margin-right:5px;}
+#menu-superior #foro a:hover{background-position:-163px 0;width:155px;margin-right:5px;}
+#menu-superior-s2 #foro-ac a{background-position:-163px -76px;width:155px;margin-right:5px;float:left;padding-top:38px;}
+#menu-superior #foro-ac a{background-position:-163px -76px;width:155px;margin-right:5px;float:left;padding-top:38px;}
+#menu-superior-s2 #foro a{background-position:-163px -38px;margin-right:5px;float:left;width:155px;padding-top:38px;}
+#menu-superior #foro a{background-position:-163px -38px;margin-right:5px;float:left;width:155px;padding-top:38px;}
+#menu-superior-s2 #tucuenta a:hover{background-position:-323px 0;width:160px;margin-right:5px;}
+#menu-superior #tucuenta a:hover{background-position:-323px 0;width:154px;margin-right:5px;}
+#menu-superior-s2 #tucuenta-ac a{background-position:-323px -76px;width:160px;margin-right:5px;float:left;padding-top:38px;}
+#menu-superior #tucuenta-ac a{background-position:-323px -76px;width:154px;margin-right:5px;float:left;padding-top:38px;}
+#menu-superior-s2 #tucuenta a{background-position:-323px -38px;width:160px;margin-right:5px;float:left;padding-top:38px;}
+#menu-superior #tucuenta a{background-position:-323px -38px;width:154px;margin-right:5px;float:left;padding-top:38px;}
+#menu-superior #principal-ac a{background-position:0 -76px;margin-right:5px;float:left;width:158px;padding-top:38px;}
+#menu-superior-s2 #principal-ac a{background-position:0 -76px;margin-right:5px;float:left;width:158px;padding-top:38px;}
+#menu-superior-s2 ul{margin:0;padding-left:0;float:left;}
+#menu-superior-s2 li{display:inline;float:left}
+#menu-superior-s2 #principal a{background-position:0 -38px;margin-right:5px;float:left;width:158px;padding-top:38px;}
+#menu-superior-s2 #principal a:hover{background-position:0 0;margin-right:5px;}
+#contenido{background-color:#E4E4E4;float:left;width:997px;background-attachment:scroll;background-clip:border-box;background-color:#FFFFFF;background-image:url("../imagenes/contenido-bg.gif");background-origin:padding-box;background-position:0 0;background-repeat:repeat-x;background-size:auto auto;}
+#menu-derecho{float:left;width:300px;margin-top:5px;}
+#pie{background:#EEEEEE;height:38px;float:left;width:997px;background-attachment:scroll;background-clip:border-box;background-color:#FFFFFF;background-image:url("../imagenes/contenido-bg-pie.gif");background-origin:padding-box;background-position:0 0;background-repeat:repeat-x;background-size:auto auto;text-align:center;padding-top:90px;text-shadow:0 1px 0 #FFFFFF;}
+#contenido-izquierdo{float:left;width:692px;}
+#menu{float:left;width:300px;}
+#slideshowWrapper{position:relative;width:672px;margin:2px;}
+#fssPlayPause{position:absolute;top:270px;right:20px;background:url(white.png) repeat;padding:4px 0 5px 0;-moz-border-radius:5px;border-radius:5px;width:60px;text-align:center;display:block;color:#333;text-decoration:none;}
+#fssList{list-style:none;width:672px;margin:auto;padding:5px 0 0 45%;}
+#fssList li{display:inline;padding-right:10px;}
+#fssList li a{color:#999;text-decoration:none;}
+#fssList li.fssActive a{font-weight:bold;color:#333;}
+#comprar-ropa-btn{float:left;margin-left:36px}
+#comprar-ropa-btn a{padding-top:75px;overflow:hidden;background-image:url(../imagenes/comprar-ropa.png);height:0;float:left;width:180px;}
+#comprar-ropa-btn a:hover{background-position:0 -79px;}
+#nuevo-nombre-btn{float:left;margin-left:260px}
+#nuevo-nombre-btn a{padding-top:75px;overflow:hidden;background-image:url(../imagenes/nuevo-nombre.png);height:0;float:left;width:180px;}
+#nuevo-nombre-btn a:hover{background-position:0 -79px;}
+#boxinvitando{float:left;width:625px;background-color:#FFFFFF;border:#EBEBEB solid 1px;margin:5px;padding:20px;text-align:center;font-size:16px;font-weight:bold;color:#009900}

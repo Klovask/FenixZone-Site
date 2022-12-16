@@ -1,0 +1,27 @@
+#paises{margin-top:40px;float:left}
+#paises a{float:left;text-align:center;width:80px;margin-left:30px;}
+#paises2{margin-top:30px;float:left}
+#paises2 a{float:left;text-align:center;width:160px;margin-left:210px;margin-right:210px;margin-bottom:30px;}
+input[type=text],select{border:solid 1px #999999;padding:2px;background-color:#EBEBEB;margin:2px;}
+.contenido-perfil{padding-top:10px;padding-left:4px;float:left;width:990px}
+.bgtd{background-color:#003600}
+.pdiv{border-left:solid 1px #c7c7c7;border-right:solid 1px #c7c7c7;border-bottom:solid 1px #c7c7c7;float:left;width:969px}
+.sdiv{float:left;width:270px;background-position:center center;height:390px}
+.fondonombre{width:440px;height:80px;margin-left:518px;background-image:url(/imagenes/fondo-nombre4.png);position:absolute;float:left;text-align:center;font-size:22px;line-height:26px;text-shadow:0 1px 0 #000;color:#FFF;}
+.fondonivel{width:90px;height:90px;background-image:url(/imagenes/fondo-nivel4.png);position:absolute;float:left;text-align:center;font-size:35px;line-height:86px;text-shadow:0 1px 0 #000;color:#FFF;margin:5px;}
+.mensajepublico{float:left;margin-left:200px;margin-top:50px;position:absolute;}
+.mpflecha{float:left;background-image:url(/imagenes/punta-dialogo.png);width:20px;height:27px;left:-19px;top:6px;position:absolute;}
+.mpdialogo{border:solid 1px #CFCFCF;border-radius:5px;background-color:#FFF;padding:10px;float:left;max-width:280px;font-size:15px;}
+.datosfp{float:left;font-size:13px;margin-left:600px;margin-top:70px;position:absolute;}
+.fdr_img{float:left;background-image:url(/imagenes/16x16/calendario.png);width:16px;height:16px;margin-right:5px;}
+.vpuv_img{float:left;background-image:url(/imagenes/16x16/visto.png);width:16px;height:16px;margin-right:5px;}
+.tdj_img{float:left;background-image:url(/imagenes/16x16/reloj.png);width:16px;height:16px;margin-right:5px;}
+.pais_img{float:left;background-image:url(/imagenes/16x16/planeta.png);width:16px;height:16px;margin-right:5px;}
+.edad_img{float:left;background-image:url(/imagenes/16x16/identificacion.png);width:16px;height:16px;margin-right:5px;}
+.datosfp_iz{float:left;width:140px;line-height:18px;}
+.datosfp_der{float:left;line-height:18px;width:205px;}
+.cdiv{float:left;color:#FFFFFF;height:53px;margin-left:604px;margin-top:235px;padding-left:25px;padding-right:5px;padding-top:105px;position:absolute;width:336px;background-image:url(/imagenes/fondo-calificacion2.png);}
+.uc{float:left;position:absolute;margin-top:350px;margin-left:305px;background-image:url(/imagenes/conectado-btn.png);width:133px;height:38px;line-height:35px;text-align:center;text-shadow:0 1px 5px #000;color:#FFFFFF;font-size:15px;}
+.udc{float:left;position:absolute;margin-top:350px;margin-left:305px;background-image:url(/imagenes/desconectado-btn.png);width:133px;height:38px;line-height:35px;text-align:center;text-shadow:0 1px 0 #FFF;color:#000000;font-size:15px;}
+.ediv{float:left;position:absolute;margin-top:334px;margin-left:305px;width:133px;text-align:center;font-weight:bold;color:#060d15}
+.cfig{float:left;position:absolute;margin-top:330px;margin-left:5px;}
